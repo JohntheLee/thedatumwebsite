@@ -13,6 +13,8 @@ customJs = []
 mainSections = ["post"]
 images = ["images/site-feature-image.png"]
 doNotLoadAnimations = false
+# Google Analytics
+googleAnalytics = "UA-197726431-1"
 # Form Spree Contact Form
 contactFormAction = "https://formspree.io/f/xwkalavg"
 # Google Site Verify
@@ -46,7 +48,7 @@ url = "https://ca.linkedin.com/"
 [[socialIcons]]
 icon = "fab fa-github"
 title = "GitHub"
-url = "https://github.com/JohntheLee"
+url = "https://github.com/JohntheLee/thedatumwebsite"
 
 [[socialIcons]]
 icon = "fas fa-envelope"
