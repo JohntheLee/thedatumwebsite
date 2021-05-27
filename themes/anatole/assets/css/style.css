@@ -1,7 +1,9 @@
 @charset "UTF-8";
 
+@import url('https://fonts.googleapis.com/css2?family=Jura:wght@300;400;500;600;700&display=swap');
+
 :root {
-    --bg-color: #fff;
+    --bg-color: #fdf5e6;
     --secondary-bg-color: #eeeeee;
     --heading-color: #464646;
     --body-color: rgba(0, 0, 0, 0.7);
@@ -18,7 +20,7 @@
     --thumbnail-height: 15em;
     scroll-padding-top: 100px;
     --body-max-width: 1920px;
-    --content-ratio: {{ .Site.Params.contentratio | default 0.6 }};
+    --content-ratio: {{ .Site.Params.contentratio | default 0.7 }};
     --sidebar-ratio: calc(1 - var(--content-ratio));
     --content-max-width: calc(var(--body-max-width) * var(--content-ratio));
     --sidebar-max-width: calc(var(--body-max-width) - var(--content-max-width));
@@ -27,7 +29,7 @@
 }
 
 html[data-theme='dark'] {
-    --bg-color: #010408;
+    --bg-color: #222;
     --secondary-bg-color: rgb(56, 56, 56);
     --heading-color: #c9d1d9;
     --body-color: rgb(169, 169, 179);
@@ -50,7 +52,7 @@ html {
 
 body {
     color: var(--body-color);
-    font-family: 'PingHei', 'PingFang SC', 'Helvetica Neue', 'Work Sans', 'Hiragino Sans GB', sans-serif;
+    font-family: 'Jura', sans-serif;
     font-size: 15px;
     width: 100%;
     margin: 0 auto 30px auto;
@@ -60,7 +62,7 @@ body {
 p {
     line-height: 1.9em;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 20px;
 }
 
 a {
@@ -206,7 +208,7 @@ a:active {
     list-style: none;
     padding: 11px 30px;
     float: left;
-    font-size: 12px;
+    font-size: 16px;
     display: block;
     width: calc(100% - 30px);
 }
