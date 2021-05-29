@@ -32,5 +32,8 @@ other = "Name"
 [email]
 other = "Email"
 
+[subject]
+other = "Subject"
+
 [message]
 other = "Message" 
