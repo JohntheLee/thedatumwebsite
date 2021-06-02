@@ -26,7 +26,7 @@
   name = "CV"
   weight = 500
   identifier = "CV"
-  url = "/CV/"
+  url = "/cv/"
 
   [[main]]
   name = "About"
