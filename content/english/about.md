@@ -12,3 +12,5 @@ I graduated from the University of Toronto in 2020, where I received my Honours 
 Check out the homepage for recent posts. I like to write opinion pieces on a range of biostatistics topics such as Dirichlet process priors, meta-trends in environmental epidemiology, and new R releases.
 
 I like to keep active by hiking or swimming. I’m a mild linguaphile who is currently practicing his Italian. I’m a big music junkie, with my favourite genres being progressive rock and Japanese jazz fusion.
+
+![profile picture](/english/about_files/JohnLee_Profile.JPG)
