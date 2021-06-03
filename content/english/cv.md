@@ -148,7 +148,7 @@ Undergraduate Operation Assistant	--------- [August 2017]
 
 Chief Scout & Troop Secretary	--------- [2012 – 2016]
 
-- 21st Waterloo Boy Scouts, Waterloo, Ontario
+> 21st Waterloo Boy Scouts, Waterloo, Ontario
 
 - Served as a leader to a boy scout troop of 10 to 15 members, mentoring them in badge and skill acquisition
 
@@ -167,9 +167,12 @@ Administrator & Associate Member --------- [September – December 2015]
 Committee Secretary & Trail Manager	--------- [October – November 2015]
 
 > Maungatautari Ecological Island Trust, Pukeatua, New Zealand
-> - Contributed to discussions within Maungatautari Reserve Committee meetings concerning the financial state of the trust and led discussions regarding upcoming Christmas events and fundraisers
-> - Recorded the minutes of weekly committee meetings and distributed them to all members via email newsletters
-> - Managed the maintenance of the northwest section of the pest-proof fence, which involved trail clean-up and trapline upkeep
+
+- Contributed to discussions within Maungatautari Reserve Committee meetings concerning the financial state of the trust and led discussions regarding upcoming Christmas events and fundraisers
+
+- Recorded the minutes of weekly committee meetings and distributed them to all members via email newsletters
+
+- Managed the maintenance of the northwest section of the pest-proof fence, which involved trail clean-up and trapline upkeep
 
 ---
 
