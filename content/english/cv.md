@@ -6,7 +6,6 @@ date: '2021-06-02'
 output:
   blogdown::html_page:
     highlight: tango
-    toc: true
 slug: []
 categories: []
 tags: []

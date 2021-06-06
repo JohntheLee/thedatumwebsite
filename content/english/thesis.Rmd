@@ -6,12 +6,18 @@ date: '2021-06-03'
 output:
   blogdown::html_page:
     highlight: tango
-    toc: true
 slug: []
 categories: []
 tags: []
 DisableComments: Yes
 ---
+
+---
+
+## Table of Contents
+
+1. [Title](#title)
+2. [Abstract](#abstract)
 
 ---
 
@@ -35,3 +41,12 @@ Functional diversity indices are a staple to the research of ecology and evoluti
 
 ## Introduction
 
+Community ecology is the study of the interactions between organisms within
+communities on spatial and temporal scales (Sahney and Benton, 2008). Community ecologists
+are tasked with characterizing a community of organisms by studying their interactions with
+other organisms around them and their interactions with the environment. This field of ecology
+revolves around the designations of species richness and species diversity (Spellerberg and
+Fedor, 2003). Species richness measures the number of species within a community, while
+species diversity describes the species composition within a community. Ecologists utilize
+ecological indices to measure the species richness or species diversity of a community (Grabchak
+et al., 2017).
