@@ -35,8 +35,8 @@ listDateFormat = "2006-01-02"
 
 ## Math settings
 [math]
-enable = false  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
-use = "katex"  # options: "katex", "mathjax". default is "katex".
+enable = true
+use = "katex"
 
 ## Social links
 # use 'fab' when brand icons, use 'fas' when standard solid icons.
