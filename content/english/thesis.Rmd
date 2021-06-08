@@ -25,6 +25,7 @@ DisableComments: Yes
 7. [Conclusion](#conclusion)
 8. [Acknowledgements](#acknowledgements)
 9. [References](#references)
+10. [Appendix](#appendix)
 
 ---
 
@@ -215,3 +216,33 @@ Swenson, N. G. 2011. Phylogenetic Beta Diversity Metrics, Trait Evolution and In
 Villéger, S., N. W. H. Mason, and D. Mouillot. 2008. New Multidimensional Functional Diversity Indices For A Multifaceted Framework In Functional Ecology. Ecology 89:2290–2301.
 
 Whittaker, R. H. 1960. Vegetation of the Siskiyou Mountains, Oregon and California. Ecological Monographs 30:407–407.
+
+# Appendix
+
+![](/english/thesis_files/Figure1.png)
+
+![](/english/thesis_files/Figure2.png)
+
+![](/english/thesis_files/Figure3.png)
+
+![](/english/thesis_files/Figure4.png)
+
+![](/english/thesis_files/Figure5.png)
+
+![](/english/thesis_files/Figure6.png)
+
+![](/english/thesis_files/Figure7.png)
+
+![](/english/thesis_files/Figure8.png)
+
+![](/english/thesis_files/Figure9.png)
+
+![](/english/thesis_files/Figure10.png)
+
+![](/english/thesis_files/Figure11.png)
+
+![](/english/thesis_files/Figure12.png)
+
+![](/english/thesis_files/Figure13.png)
+
+![](/english/thesis_files/Figure14.png)
