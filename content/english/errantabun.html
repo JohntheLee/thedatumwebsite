@@ -1,0 +1,30 @@
+---
+title: ErrantAbun Package
+description: Jeonghoon Lee's ErrantAbun R Package
+author: Jeonghoon Lee
+date: '2021-06-11'
+output:
+  blogdown::html_page:
+    highlight: tango
+slug: []
+categories: []
+tags: []
+DisableComments: Yes
+---
+
+<script src="/rmarkdown-libs/header-attrs/header-attrs.js"></script>
+
+
+<p>Title: Calculation Of An Abundance Matrix Using A Randomized Distribution</p>
+<p>Version: 1.0.2</p>
+<p>Author: Jeonghoon Lee</p>
+<p>This package contains the “errantabun” function which produces an errant species abundance matrix. This errant species abundance matrix is calculated from an original species abundance matrix and a randomized, statistical distribution. Currently, the available statistical distributions are Poisson and binomial. This function utilizes the “rpois” and the “rbinom” functions to create an abundance distribution for each species. The lambda for the Poisson distribution is the original abundance (vector) for each species. The size for the binomial distribution is the original abundance (vector) for each species.</p>
+<p>This package also contains a sample abundance matrix collected from the Koffler Scientific Reserve at Joker’s Hill (University of Toronto). Fourteen blocks serve as disparate communities of grassland plant species. Each block contains an array of different-sized plots: eight <span class="math inline">\(0.5m^2\)</span>, eight <span class="math inline">\(1m^2\)</span>, and four <span class="math inline">\(2m^2\)</span> plots. Each column of this abundance matrix represents a grassland plant species. Each row represents one of four <span class="math inline">\(2m^2\)</span> plots from all 14 blocks.</p>
+<p>Imports: dplyr, magrittr, stats</p>
+<p>License: MIT + file LICENSE</p>
+<p>To-do List:</p>
+<ul>
+<li>add more statistical distributions</li>
+<li>incorporate native pipe</li>
+<li>finalize readme file</li>
+</ul>
