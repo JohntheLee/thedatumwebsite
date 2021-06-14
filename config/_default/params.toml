@@ -3,9 +3,9 @@ title = "the datum"
 author = "the datum"
 copyright = "May 2021"
 description = "A website for data science and statistics enthusiasts. Welcome to my portfolio/blog."
-profilePicture = "images/porcorosso.jpg"
+profilePicture = "images/thedatum.svg"
 keywords = ""
-favicon = "favicons/"
+favicon = "favicons/thedatumfavicon.ico"
 # example ["css/custom.css"]
 customCss = []
 # example ["js/custom.js"]
