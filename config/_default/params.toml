@@ -5,7 +5,7 @@ copyright = "May 2021"
 description = "A website for data science and statistics enthusiasts. Welcome to my portfolio/blog."
 profilePicture = "images/thedatum.svg"
 keywords = ""
-favicon = "favicons/thedatumfavicon.ico"
+favicon = "favicons/"
 # example ["css/custom.css"]
 customCss = []
 # example ["js/custom.js"]
