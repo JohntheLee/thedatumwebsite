@@ -1,6 +1,7 @@
 ---
 title: Probability does not exist 
 author: 'Jeonghoon Lee'
+summary: An amateurish response to de Finetti's bold claim
 date: '2021-08-06'
 slug: []
 categories: []
