@@ -1,7 +1,7 @@
 ---
 title: Adventures in GIS, Episode 9
 author: 'Jeonghoon Lee'
-summary: The eighth episode to my trek through learning about GIS software
+summary: The ninth episode to my trek through learning about GIS software
 date: '2022-03-10'
 slug: []
 categories: []
