@@ -142,11 +142,14 @@ Ontario Scholar
 
 ## Technical Skills and Certifications
 
+Amazon Web Services Solutions Architect - Associate
+April 3, 2022
+
 Programming Languages
 - R, Python 3, Julia, HTML5
 
 Database Management Systems
-- Microsoft Access, MySQL
+- Microsoft Access, MySQL, PostgreSQL
 
 Geographic Information Systems Software
 - ArcGIS Pro, ArcMap, MapInfo Pro, QGIS
