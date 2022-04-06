@@ -143,7 +143,7 @@ Ontario Scholar
 ## Technical Skills and Certifications
 
 Amazon Web Services Solutions Architect - Associate
-April 3, 2022
+April 2022
 
 Programming Languages
 - R, Python 3, Julia, HTML5
