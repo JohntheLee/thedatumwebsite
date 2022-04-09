@@ -48,7 +48,7 @@ url = "https://www.linkedin.com/in/jeonghoon-lee"
 [[socialIcons]]
 icon = "fab fa-github"
 title = "GitHub"
-url = "https://github.com/JohntheLee/thedatumwebsite"
+url = "https://github.com/JohntheLee?tab=repositories"
 
 [[socialIcons]]
 icon = "fas fa-envelope"
