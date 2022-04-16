@@ -26,6 +26,8 @@ Imports: dplyr, magrittr, stats
 
 License: MIT + file LICENSE
 
+GitHub Link: https://github.com/JohntheLee/ErrantAbun
+
 To-do List:
 
 - add more statistical distributions
