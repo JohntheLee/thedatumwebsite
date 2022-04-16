@@ -23,19 +23,25 @@
   url = "/thesis/"
   
   [[main]]
-  name = "CV"
+  name = "AddressParse"
   weight = 500
+  identifier = "addressparse"
+  url = "/addressparse/"
+  
+  [[main]]
+  name = "CV"
+  weight = 600
   identifier = "CV"
   url = "/cv/"
 
   [[main]]
   name = "About"
-  weight = 600
+  weight = 700
   identifier = "about"
   url = "/about/"
 
   [[main]]
   name = "Contact"
-  weight = 700
+  weight = 800
   identifier = "contact"
   url = "/contact/"
