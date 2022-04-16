@@ -2,7 +2,7 @@
 title: Curriculum Vitae
 description: Jeonghoon Lee's curriculum vitae
 author: Jeonghoon Lee
-date: '2022-01-26'
+date: '2022-04-15'
 output:
   blogdown::html_page:
     highlight: tango
@@ -26,20 +26,26 @@ DisableComments: Yes
 
 ## Employment History
 
+**Cloud Data Architect** at Lucky Super, Waterloo, ON
+- November 2020 - Present
+- Managed Point of Sale transactions and inventory deliveries
+- Trained new employees and monitored the productivity of current employees
+- Oversaw data migration procedures from on-premises to the cloud using AWS Storage Gateway
+- Organized data structures for inventory prices and employee payrolls within Amazon DynamoDB
+
+
 **GIS Data Technician** at Koffler Scientific Reserve at Joker’s Hill, King City, ON
 - July – September 2021
-- Updated Koffler Scientific Reserve GIS databases using MySQL and ArcGIS Online
-- Supported on-site researchers with GIS needs consistent with University of Toronto standards
+- Evaluated on-premises GIS databases using MySQL and ArcGIS Online
 - Geo-logged trail routes using GPS devices and imported them as KML files into ArcGIS Desktop
-- Analyzed existing maps and databases to propose new public trail routes
+- Conducted raster suitability analyses to propose new public trail routes
 - Designed data interpolation solutions using R and Python 3
-- Communicated to upper management on a weekly basis regarding project progress and expected issues
+- Communicated to upper management regarding project progress and expected issues
 
 **Reserve Operations Assistant** at Koffler Scientific Reserve at Joker’s Hill, King City, ON
 - May – October 2020
-- Performed routine maintenance of housing, laboratories, grounds, roads, and storage facilities
-- Coordinated with visiting students and researchers to lend general research services including ArcGIS mapping and R data analysis
-- Organized housing for visiting students and researchers per COVID-19 pandemic protocol outlined by the University of Toronto
+- Implemented a cloud-based solution to monitor on-premises solar panel energy data using AWS Lambda and CloudWatch
+- Provided cloud-based solutions to primary investigators regarding ArcGIS mapping and R data analysis
 - Corresponded with the public of King City regarding trail closures and restrictions
 
 **Event Coordinator** at Koffler Scientific Reserve at Joker’s Hill, King City, ON
@@ -67,13 +73,13 @@ DisableComments: Yes
 > Supervisor: Dr. Benjamin Gilbert, Department of Ecology & Evolutionary Biology
 
 - September 2019 – April 2020
-- Conducted experiments on the statistical performances of functional diversity indices: community-weighted mean, functional dispersion, functional richness, and functional evenness
+- Conducted experiments on the statistical performances of functional diversity indices
 - Introduced sampling error to field-collected datasets using Poisson and binomial distributions
-- Analyzed large, complex datasets with 5000+ data points
-- Calibrated 100000+ computer-generated simulations
+- Analyzed large, complex datasets with 10000+ data points using MySQL
 - Programmed the undergraduate thesis project using R (version 3.6.3) and RStudio (version 1.2.1335)
 - Developed a custom, project-oriented R package (Jeonghoon Lee (2020). ErrantAbun: Calculation Of An Abundance Matrix Using A Randomized Distribution. R package version 1.0.1.)
 - Collaborated with the undergraduate thesis supervisor using Git (version 2.20.1)
+- Presented the project to the Ecology & Evolutionary Biology Department
 
 **Field Research Assistant** at University of Toronto, Toronto, ON
 
@@ -81,8 +87,9 @@ DisableComments: Yes
 
 - May – August 2019
 - Conducted field and laboratory research at the University of Toronto’s field station (Koffler Scientific Reserve at Joker’s Hill) to study the community ecology of grassland plant species
-- Compiled data from several experiments and maintained plant populations in the field and greenhouse
-- Monitored large, complex datasets with 10000+ data points to eliminate logical and syntax errors
+- Maintained plant populations in the field and greenhouse
+- Compiled large, complex datasets using Amazon Aurora and AWS EC2
+- Presented biweekly reports to the graduate cohort
 
 **Undergraduate Operation Assistant** at Children’s Hospital of Michigan, Detroit, MI, USA
 
@@ -155,7 +162,7 @@ Geographic Information Systems Software
 - ArcGIS Pro, ArcMap, MapInfo Pro, QGIS
 
 Documentation Software
-- Git, LaTeX, Microsoft Word, Microsoft Excel, Google Drive, WordPress
+- Git, LaTeX, WordPress
 
 Language Fluency
 - English, French, Korean, Italian

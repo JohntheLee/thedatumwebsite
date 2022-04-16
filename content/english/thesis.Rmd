@@ -39,6 +39,8 @@ Performances of functional diversity indices to randomized Poisson and binomial 
 
 *Date: 2020-04-20*
 
+*GitHub Link:* https://github.com/JohntheLee/EEB498-RProject
+
 ---
 
 # Abstract
