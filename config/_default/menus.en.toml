@@ -29,19 +29,25 @@
   url = "/addressparse/"
   
   [[main]]
-  name = "CV"
+  name = "OilspillsReformat"
   weight = 600
+  identifier = "oilspillsreformat"
+  url = "/oilspillsreformat"
+  
+  [[main]]
+  name = "CV"
+  weight = 700
   identifier = "CV"
   url = "/cv/"
 
   [[main]]
   name = "About"
-  weight = 700
+  weight = 800
   identifier = "about"
   url = "/about/"
 
   [[main]]
   name = "Contact"
-  weight = 800
+  weight = 900
   identifier = "contact"
   url = "/contact/"

@@ -1,0 +1,25 @@
+---
+title: OilspillsReformat Project
+description: Jeonghoon Lee's oilspills database restructure
+author: Jeonghoon Lee
+date: '2022-04-24'
+output:
+  blogdown::html_page:
+    highlight: tango
+slug: []
+categories: []
+tags: []
+DisableComments: Yes
+---
+
+Title: OilspillsReformat
+
+Version: 1.0.0
+
+Author: Jeonghoon Lee
+
+GitHub Link: https://github.com/JohntheLee/OilspillsReformat
+
+A Python script that utilizes ArcPy module to reformat oilspill shapefiles. This script also opens the oilspills shapefile in ArcGIS. The script will reformat certain oilspills attributes.
+
+Requires two modules: arcpy, re
