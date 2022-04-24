@@ -1,6 +1,6 @@
 ---
-title: AddressParse
-description: Jeonghoon Lee's address parser
+title: AddressParse Project
+description: Jeonghoon Lee's business address parser
 author: Jeonghoon Lee
 date: '2022-04-16'
 output:
@@ -12,7 +12,13 @@ tags: []
 DisableComments: Yes
 ---
 
----
+Title: AddressParse
+
+Version: 1.0.0
+
+Author: Jeonghoon Lee
+
+GitHub Link: https://github.com/JohntheLee/AddressParse
 
 Python script that parses McDonald's addresses from the Yellow Pages website. This script parses html text strings in a website and returns relevant address information in an Excel sheet.
 
