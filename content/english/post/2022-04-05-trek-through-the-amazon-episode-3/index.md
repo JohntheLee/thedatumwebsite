@@ -1,7 +1,7 @@
 ---
 title: Trek through the Amazon, Episode 3
 author: 'Jeonghoon Lee'
-summary: The second episode to my journey through learning about Amazon Web Services
+summary: The third episode to my journey through learning about Amazon Web Services
 date: '2022-04-05'
 slug: []
 categories: []
