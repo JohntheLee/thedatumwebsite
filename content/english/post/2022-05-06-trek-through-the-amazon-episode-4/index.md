@@ -58,4 +58,8 @@ You can go through the rest of the VPC components to make sure they're properly 
 
 Navigate to the Security Group page through the sidebar and click on the default group created by the wizard for your VPC. Click on "Edit inbound rules". We want to access any potential EC2 instances we launch within this security group from the internet. Delete the pre-existing security group rule. Click on "Add rule". Set the type to "HTTP" and the source to "Anywhere-IPv4". Click "Save rules".
 
+To delete the newly-created VPC and its components, go to your VPCs through the sidebar. Click on the VPC. Click on the "Actions" drop-down menu and select "Delete VPC". Then, type "delete" in the confirmation field and click "Delete" to complete the process.
+
+![vpc-delete](images/vpc-delete.png)
+
 Stay tuned for the next episode where I will be going through VPC configuration through the AWS CLI.
